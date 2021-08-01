@@ -1,0 +1,19 @@
+import math
+ 
+ 
+test_cases=int(input())
+ 
+while(test_cases!=0):
+	n,x=input().split()
+	count=0
+	n=int(n)
+	x=int(x)
+	if n<=2:
+		print("1")
+	else:
+		n=n-2
+		no_of_floors=math.floor(n/x)+2
+		if n%x==0:
+			no_of_floors=no_of_floors-1
+		print(no_of_floors)
+	test_cases=test_cases-1
