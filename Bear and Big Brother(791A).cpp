@@ -18,3 +18,5 @@ int main()
     cin>>buffer;
     return 0;
 }
+
+# easy problem
