@@ -26,3 +26,5 @@ public class Anton_and_Danik_734A
 	}
 
 }
+
+// 800 rated problem
