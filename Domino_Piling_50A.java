@@ -12,3 +12,5 @@ public class Domino_Piling_50A
 	}
 
 }
+
+// 800 rated
