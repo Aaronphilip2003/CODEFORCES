@@ -29,3 +29,5 @@ public class Hulk_705A
 	}
 
 }
+
+// 800 rated
