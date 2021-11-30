@@ -17,3 +17,4 @@ public class Elephant_617A
 	}
 
 }
+// 800 rated
