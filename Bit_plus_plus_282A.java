@@ -27,3 +27,5 @@ public class Bit_plus_plus_282A
 	}
 
 }
+
+// 800 rated program
