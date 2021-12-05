@@ -4,3 +4,4 @@ for i in range(int(input())):
         print((x-1)//2)
     else:
         print((x//2)-1)
+# 800 rated
