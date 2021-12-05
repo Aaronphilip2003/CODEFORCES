@@ -36,3 +36,5 @@ public class Bor_or_girl_236A
 	}
 
 }
+
+// 800 rated program
