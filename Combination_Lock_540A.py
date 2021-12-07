@@ -22,3 +22,5 @@ for i in range(0,n):
 	sum+=min(10-abs(wrong_split_int[i]-correct_split_int[i]),abs(wrong_split_int[i]-correct_split_int[i]))
 
 print(sum)
+
+# 800 rated program
