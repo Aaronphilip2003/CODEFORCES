@@ -7,3 +7,4 @@ while test_cases!=0:
 	numbers_int.sort()
 	print(numbers_int[0]*numbers_int[2])
 	test_cases-=1
+# 800 rated program
