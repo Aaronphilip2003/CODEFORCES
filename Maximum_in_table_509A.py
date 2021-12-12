@@ -13,3 +13,14 @@ if(n==1):
 	print(1)
 else:
 	print(ans)
+
+# import math
+ 
+# number = int(input())
+# if number == 1:
+#   print(1)
+# else:
+#   n = 2*(number-1) - 1
+#   answer = math.factorial(n)//(math.factorial(n- (number-1))*math.factorial(number-1))
+#   print(answer*2)
+# Soham's method using pascal's triangle
