@@ -30,3 +30,5 @@ int main() {
 	
 	return 0;
 }
+
+// 800 rated program
