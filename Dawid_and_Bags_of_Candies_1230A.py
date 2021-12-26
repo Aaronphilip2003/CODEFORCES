@@ -11,3 +11,5 @@ if a1+a2==a3+a4 or a2+a3==a1+a4 or a1+a3==a2+a4 or abs(a1-a2)==abs(a3-a4) or abs
     print("YES")
 else:
     print("NO")
+    
+    # 800 rated program
