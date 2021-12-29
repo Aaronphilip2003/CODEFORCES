@@ -26,3 +26,5 @@ s=""
 for i in q_split:
 	s+=i
 print(s)
+
+# 800 rated program
