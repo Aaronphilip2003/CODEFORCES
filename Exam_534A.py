@@ -19,3 +19,5 @@ else:
         print(i,end=" ")
     for i in range(2,n+1,2):
         print(i,end=" ")
+
+# 800 rated program
