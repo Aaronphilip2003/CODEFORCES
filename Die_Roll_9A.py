@@ -7,3 +7,5 @@ num=7-maximum
 den=6
 hcf=math.gcd(num,den)
 print(f"{num//hcf}/{den//hcf}")
+
+# 800 rated program
