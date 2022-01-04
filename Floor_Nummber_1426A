@@ -17,3 +17,5 @@ while(test_cases!=0):
 			no_of_floors=no_of_floors-1
 		print(no_of_floors)
 	test_cases=test_cases-1
+
+# 800 rated program
