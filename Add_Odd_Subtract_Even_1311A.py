@@ -18,4 +18,6 @@ while t!=0:
     else:
       print("1")
   t = t-1
+  
 # add subtract
+# 800 rated i think
