@@ -4,3 +4,4 @@ while testcases !=0:
   sum=0
   print(1-number,number)
   testcases-=1
+# 800 rated program
