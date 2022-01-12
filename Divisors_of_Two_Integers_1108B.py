@@ -17,3 +17,5 @@ for i in divisors_int:
     third_list.append(i)
 max_2 = max(third_list)
 print(max_1,max_2)
+
+# 900 rated program
