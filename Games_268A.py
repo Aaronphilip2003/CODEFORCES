@@ -22,3 +22,5 @@ for i in range(len(homelist)):
     x += awaylist.count(homelist[i])
 
 print(x)
+
+# 800 rated program
