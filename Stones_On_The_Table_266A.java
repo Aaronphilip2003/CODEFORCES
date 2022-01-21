@@ -21,3 +21,5 @@ public class Stones_On_The_Table_266A
 	}
 
 }
+
+// 800 rated program
