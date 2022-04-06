@@ -37,3 +37,6 @@ int main()
     cout<<number<<endl;
     return 0;
 }
+
+
+// 800 rated program
