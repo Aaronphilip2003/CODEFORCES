@@ -10,7 +10,7 @@ int main()
     while (testcases!=0)
     {
         vector<ll>num(3);
-        for(auto &it: num) cin>>it;
+        for(auto &it: num) cin>>it; // way to input a vector
         sort(num.begin(),num.end());
         if(num[1]!=num[2])
         {
